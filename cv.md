@@ -1,8 +1,9 @@
 # Maryna Prusenka 
 
 # Contacts:
-+375445479710
-Discord: marina005099
+* +375445479710
+* Discord: marina005099
+* Github: MarinaC1
 
 # About me
 I want to study JS in order to change my job. 
@@ -23,8 +24,8 @@ I want to study JS in order to change my job.
 * good communicative skills
   
 # Languages
-English C1
-German A1
-Russian native
+* English C1
+* German A1
+* Russian native
 
 
