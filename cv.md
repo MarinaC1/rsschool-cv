@@ -2,8 +2,11 @@
 
 # Contacts:
 +375445479710
+Discord: marina005099
+
 # About me
 I want to study JS in order to change my job. 
+
 # Education
 * GGU named after F.Skoryna, English and German teacher (2013)
 * GGU named after F.Skoryna, an interpreter (2013)
