@@ -33,6 +33,10 @@ body {
     width: 300px;
     border-radius: 50%;
 }
+.photo{
+  width:"100px";
+  height:"100px";
+}
 .nav-list {
   display: flex;
   justify-content: flex-end;
